@@ -8,3 +8,5 @@ Python 3.12.3
 In order to use this tool use command:
 
 python windows_host_port_scan.py
+
+More features coming soon...
