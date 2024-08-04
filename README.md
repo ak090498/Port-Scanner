@@ -8,4 +8,3 @@ In order to use this tool use command:
 
 python windows_host_port_scan.py ip_address
 
-More features coming soon...
