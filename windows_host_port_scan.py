@@ -16,5 +16,5 @@ else:
         except ConnectionRefusedError:
             print('port',ports[i],'is closed, hence connection refused')
         except PermissionError:
-            print('port is open however permission is denied')        
+            print('port',ports[i] ,'is open however permission is denied w.r.t socket')        
            
