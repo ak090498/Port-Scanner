@@ -6,6 +6,6 @@ Python 3.12.3
 # Usage
 In order to use this tool use command:
 
-python windows_host_port_scan.py <your designated IP address>
+python windows_host_port_scan.py ip_address
 
 More features coming soon...
